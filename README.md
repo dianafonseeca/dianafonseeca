@@ -3,7 +3,7 @@
   <a href="https://github.com/dianafonseeca">
     
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=denferoli&show_icons=true&theme=midnight-purple">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denferoli&langs_count=8e&theme=midnight-purple"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianafonseeca&langs_count=8e&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
