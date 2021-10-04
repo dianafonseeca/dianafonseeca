@@ -1,9 +1,6 @@
 ### Hi there!! 💜
 <div>
   <a href="https://github.com/dianafonseeca">
-    
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=dianafonseeca&show_icons=true&theme=midnight-purple">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianafonseeca&langs_count=8e&theme=midnight-purple"/>
 </div>
   
 <div style="display: inline_block"><br>
